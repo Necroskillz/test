@@ -1,7 +1,7 @@
 # test
 
 some txt
- * [link](#test.dot)
+ * [link](#link.with.dot)
 
-<a id="test.dot"></a>
+<a id="link.with.dot"></a>
 # test dot
